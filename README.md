@@ -1,1 +1,7 @@
-# hello
+<?php
+
+echo "salam asdsad
+";
+
+?>
+
